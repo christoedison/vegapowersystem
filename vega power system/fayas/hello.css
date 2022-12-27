@@ -1,0 +1,100 @@
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.navbar{
+    height: 70px;
+}
+.navbar-brand{
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+    font-weight: bold;
+}
+.nav-link{
+    margin-left: 200px;
+}
+.carousel-inner{
+    height: 500px;
+}
+.image1{
+    width: 140px;
+    height: 140px;
+    margin-left: 10px;
+}
+.image1para{
+    font-size: 13px;
+}
+.image1div{
+    width:250px ;
+    height: 300px;
+    margin-top: 5px;
+    margin-left: 15px;
+    border-style: solid;
+    border: 2px ;
+    background-color: #d4d6d7;
+    border-radius: 1px;
+    border-color: blue;
+    padding: 10px;
+    border-radius: 25px;
+}
+.image2div{
+    width:250px ;
+    height: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-style: double;
+    background-color:  #d4d6d7;
+    border: 2px black;
+    padding: 10px;
+    border-radius: 25px;
+}
+.image3div{
+    width:250px ;
+    height: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-style: double;
+    background-color: #d4d6d7;
+    border: 2px black;
+    padding: 10px;
+    border-radius: 25px;
+}
+.image4div{
+    width:250px ;
+    height: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-style: double;
+    background-color:  #d4d6d7;
+    border: 2px black;
+    padding: 10px;
+    border-radius: 25px;
+}
+.image5div{
+    width:250px ;
+    height: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-style: double;
+    background-color:  #d4d6d7;
+    border: 2px black;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.full{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 320px;
+}
+.whole{
+    width: 100%;
+    height: 1000px;
+    background-color: whitesmoke;
+}
+.full2{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    margin-top: 20px;
+}
